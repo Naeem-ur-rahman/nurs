@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Portfolio REACT 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Second Project in REACT. My 3D Portfolio with beautiful user interface.",
+    url: "https://naeemurrahman.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Youtube Clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "First Project in REACT with Youtube Api. Add Search and Video Play Option.",
+    url: "https://nurs-youtube.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Royal Vacation",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A Customs Css Responsive Design less than 5200px. My fivth Project Design with Haddocksoft.",
+    url: "https://naeem-ur-rahman.github.io/royal-vacation/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Luxliving",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A Customs Css Responsive Design less than 5200px and added custom responsive carosel and sliders. My Second Project Design with Haddocksoft.",
+    url: "https://naeem-ur-rahman.github.io/LuxLiving-Clone/",
   },
 ];
 
